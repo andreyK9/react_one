@@ -1,0 +1,13 @@
+.add_text {
+  width: 10%;
+  height: 40px;
+  margin: 10px;
+  background-color: #ccc;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  font-style: 30px;
+  font-weight: bold;
+  color: #000;
+}

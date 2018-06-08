@@ -1,0 +1,26 @@
+.perfomanse {
+  width: 80%;
+  margin: 40px auto;
+}
+
+.view {
+  height: 250px;
+  box-sizing: border-box;
+  background-color: #cccccc;
+  font-size: 1.5em;
+  font-weight: bold;
+  color: #61DAFB;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.wrap {
+  display: flex;
+  justify-content: center;
+}
+.red_bg {
+  background-color:#222;
+}
+.black_bd {
+  border: 10px solid rgb(96, 137, 148);
+}

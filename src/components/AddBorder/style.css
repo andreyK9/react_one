@@ -1,0 +1,8 @@
+.add_border {
+  width: 10%;
+  height: 20px;
+  margin: 10px;
+  border: 10px solid #ccc;
+  background-color: #222;
+  cursor: pointer;
+}
